@@ -6,18 +6,18 @@ export default function Baners() {
         <img
           src="/imges/baner1.png"
           alt="baner1"
-          className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375] h-[16.938] md:w-[49.375rem] sm:w-[49.375rem] md:h-[36.688] sm:h-[36.688]"
+          className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[16.938rem] md:w-[49.375rem] sm:w-[49.375rem] md:h-[36.688rem] sm:h-[36.688rem]"
         />
         <div className="flex flex-col">
           <img
             src="/imges/banerleft.png"
             alt="banerleft"
-            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375] h-[36.688] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938] sm:h-[16.938]"
+            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[36.688rem] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938rem] sm:h-[16.938rem]"
           />
           <img
             src="/imges/baner2.png"
             alt="baner2"
-            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375] h-[36.688] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938] sm:h-[16.938]"
+            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[36.688rem] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938rem] sm:h-[16.938rem]"
           />
         </div>
       </div>
