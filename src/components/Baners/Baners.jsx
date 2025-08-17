@@ -12,12 +12,12 @@ export default function Baners() {
           <img
             src="/imges/banerleft.png"
             alt="banerleft"
-            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[36.688rem] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938rem] sm:h-[16.938rem]"
+            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[16.938rem] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938rem] sm:h-[16.938rem]"
           />
           <img
             src="/imges/baner2.png"
             alt="baner2"
-            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[36.688rem] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938rem] sm:h-[16.938rem]"
+            className=" sm:mb-[2.813rem] md:mb-[2.813rem] sm:mr-[1rem] md:mr-[1rem] sm:ml-[2rem] md:ml-[2rem] w-[49.375rem] h-[16.938rem] md:w-[35.625rem] sm:w-[35.625rem] md:h-[16.938rem] sm:h-[16.938rem]"
           />
         </div>
       </div>
